@@ -1,13 +1,18 @@
 # linux-notes
 
-A collection of Linux notes, commands and useful fixes.
+Notes and commands I've picked up while using Linux.
 
-Mostly things I want to remember or might need again.
+Mostly basic commands, system administration, troubleshooting and things I don't want to forget.
 
-## Contents
+## Topics
 
-- Commands
+- Basic commands
+- Files and directories
+- Permissions
+- System information
+- Processes
+- Storage
 - Package management
-- System configuration
-- Troubleshooting
-- Useful tools
+- Networking
+
+Nothing particularly advanced here. Just a place to keep useful things.
